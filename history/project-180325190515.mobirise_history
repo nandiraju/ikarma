@@ -43,8 +43,7 @@
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on",
     "publishType": "local",
-    "publishPath": "file:///Users/snandiraju/WEB_SITES/IKARMA",
-    "screenshot": "screenshot.png"
+    "publishPath": "file:///Users/snandiraju/WEB_SITES/IKARMA"
   },
   "pages": {
     "index.html": {
